@@ -1,0 +1,28 @@
+name: Package Manager Domain Tests
+
+on:
+  push:
+    branches:
+      - feature/package-manager-domain-layer
+  pull_request:
+
+jobs:
+  domain-tests:
+    name: Package Manager Domain Tests
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.2'
+          extensions: mbstring, intl
+
+      - name: Install dependencies
+        run: composer install --prefer-dist --no-interaction
+
+      - name: Run domain tests
+        run: vendor/bin/pest --configuration=phpunit.xml tests/Component/PackageManager/Domain
