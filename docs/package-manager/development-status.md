@@ -2,7 +2,7 @@
 
 ## Current Phase
 
-PHASE 4.4 — Package Solve Contract
+PHASE 4.5 — Multi-Package Dependency Solver
 
 ## Completed
 
@@ -13,17 +13,17 @@ PHASE 4.4 — Package Solve Contract
 - Highest compatible candidate selection
 - Multi-requirement constraint intersection and conflict context
 - Candidate-provider port and package-level solve request/result contract
+- Multi-package candidate solving with deterministic backtracking and propagated conflicts
 
 ## In Progress
 
-- PHASE 4 solver expansion: multi-package dependency request and backtracking contract
+- PHASE 4 solver expansion: repository metadata adapter boundary
 
 ## Next
 
-- Candidate-provider port
-- Package-level solve request/result
-- Propagated conflict explanations
-- Multi-package solving without repository or installer coupling
+- Repository metadata adapter and package manifest contract
+- Lock-file data model and reproducible selection persistence
+- Installation planning remains separate from solver selection
 
 ## Architecture Decisions
 
@@ -34,7 +34,7 @@ PHASE 4.4 — Package Solve Contract
 ## Known Limits / Technical Debt
 
 - OR and wildcard constraint syntax is intentionally deferred.
-- The current selector solves one package candidate set at a time.
+- The multi-package solver is intentionally in-memory and has no repository metadata adapter yet.
 - Runtime PHP/Pest execution is available through CI; the current local workspace does not contain a PHP runtime.
 
 ## Test Status

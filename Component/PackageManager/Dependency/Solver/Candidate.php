@@ -8,12 +8,29 @@ use Pinoox\Component\PackageManager\Dependency\Constraint\SemanticVersion;
 
 final class Candidate
 {
+    /** @param list<PackageRequirement> $requirements */
     public function __construct(
         private readonly string $package,
-        private readonly SemanticVersion $version
+        private readonly SemanticVersion $version,
+        private readonly array $requirements = []
     ) {
         if (trim($package) === '') {
             throw new \InvalidArgumentException('A candidate package identifier cannot be empty.');
+        }
+
+        foreach ($requirements as $requirement) {
+            if (!$requirement instanceof PackageRequirement) {
+                throw new \InvalidArgumentException('A candidate requirement must be a package requirement.');
+            }
+        }
+
+        $identities = array_map(
+            static fn (PackageRequirement $requirement): string => $requirement->package() . "\0" . $requirement->source(),
+            $requirements
+        );
+
+        if (count($identities) !== count(array_unique($identities))) {
+            throw new \InvalidArgumentException('A candidate cannot duplicate a requirement source for one package.');
         }
     }
 
@@ -25,5 +42,11 @@ final class Candidate
     public function version(): SemanticVersion
     {
         return $this->version;
+    }
+
+    /** @return list<PackageRequirement> */
+    public function requirements(): array
+    {
+        return $this->requirements;
     }
 }
