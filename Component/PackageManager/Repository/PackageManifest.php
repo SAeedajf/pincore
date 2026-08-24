@@ -18,7 +18,8 @@ final class PackageManifest
     public function __construct(
         private readonly string $package,
         private readonly SemanticVersion $version,
-        array $requirements = []
+        array $requirements = [],
+        private readonly ?ArtifactDescriptor $artifact = null
     ) {
         if (trim($package) === '') {
             throw new \InvalidArgumentException('A package manifest requires a package identifier.');
@@ -63,6 +64,6 @@ final class PackageManifest
             $requirements[] = new PackageRequirement($source, $package, $constraint);
         }
 
-        return new Candidate($this->package, $this->version, $requirements);
+        return new Candidate($this->package, $this->version, $requirements, $this->artifact?->toArray());
     }
 }
