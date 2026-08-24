@@ -46,3 +46,6 @@ jobs:
 
       - name: Run unit tests
         run: php vendor/bin/pest --configuration=phpunit.xml --testsuite=Unit
+
+      - name: Validate PHP source files
+        run: find Component/PackageManager tests/Unit/Component/PackageManager -name '*.php' -print0 | xargs -0 -n1 php -l

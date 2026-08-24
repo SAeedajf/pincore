@@ -1,18 +1,105 @@
-YªçŠx-®éÜj×¢ëiºÚ+Š§j[h‘éÜ¢éí×{N‹Z–‹­¦ëeŠw¬ÔðýÁ¡À()‘•±…É”¡ÍÑÉ¥Ñ}ÑåÁ•ÌôÄ¤ì()¹…µ•ÍÁ…”A¥¹½½áqQ•ÍÑÍqU¹¥Ñq½µÁ½¹•¹ÑqA…­…•5…¹…•ÉqI•Á½Í¥Ñ½Éäì()ÕÍ”A!AU¹¥ÑqÉ…µ•Ý½É­qQ•ÍÑ…Í”ì)ÕÍ”A¥¹½½áq½µÁ½¹•¹ÑqA…­…•5…¹…•Éq•Á•¹‘•¹åq½¹ÍÑÉ…¥¹ÑqM•µ…¹Ñ¥Y•ÉÍ¥½¸ì)ÕÍ”A¥¹½½áq½µÁ½¹•¹ÑqA…­…•5…¹…•Éq•Á•¹‘•¹åq½¹ÍÑÉ…¥¹ÑqY•ÉÍ¥½¹½¹ÍÑÉ…¥¹Ðì)ÕÍ”A¥¹½½áq½µÁ½¹•¹ÑqA…­…•5…¹…•Éq•Á•¹‘•¹åqM½±Ù•Éq5Õ±Ñ¥A…­…•M½±Ù•I•ÅÕ•ÍÐì)ÕÍ”A¥¹½½áq½µÁ½¹•¹ÑqA…­…•5…¹…•Éq•Á•¹‘•¹åqM½±Ù•Éq5Õ±Ñ¥A…­…•M½±Ù•Èì)ÕÍ”A¥¹½½áq½µÁ½¹•¹ÑqA…­…•5…¹…•Éq•Á•¹‘•¹åqM½±Ù•ÉqA…­…•I•ÅÕ¥É•µ•¹Ðì)ÕÍ”A¥¹½½áq½µÁ½¹•¹ÑqA…­…•5…¹…•ÉqI•Á½Í¥Ñ½Éåq%¹5•µ½ÉåA…­…•5…¹¥™•ÍÑAÉ½Ù¥‘•Èì)ÕÍ”A¥¹½½áq½µÁ½¹•¹ÑqA…­…•5…¹…•ÉqI•Á½Í¥Ñ½Éåq5…¹¥™•ÍÑ…¹‘¥‘…Ñ•AÉ½Ù¥‘•Èì)ÕÍ”A¥¹½½áq½µÁ½¹•¹ÑqA…­…•5…¹…•ÉqI•Á½Í¥Ñ½ÉåqA…­…•5…¹¥™•ÍÐì)ÕÍ”A¥¹½½áq½µÁ½¹•¹ÑqA…­…•5…¹…•ÉqI•Á½Í¥Ñ½ÉåqA…­…•5…¹¥™•ÍÑAÉ½Ù¥‘•Èì()™¥¹…°±…ÍÌ5…¹¥™•ÍÑ…¹‘¥‘…Ñ•AÉ½Ù¥‘•ÉQ•ÍÐ•áÑ•¹‘ÌQ•ÍÑ…Í”)ì(€€€ÁÕ‰±¥Œ™Õ¹Ñ¥½¸Ñ•ÍÑ}¥Ñ}•áÁ½Í•Í}µ…¹¥™•ÍÑÍ}…Í}‘•Í•¹‘¥¹}Í½±Ù•É}…¹‘¥‘…Ñ•Í}Ý¥Ñ¡}‘•Á•¹‘•¹¥•Ì ¤èÙ½¥(€€€ì(€€€€€€€€‘ÁÉ½Ù¥‘•È€ô¹•Ü5…¹¥™•ÍÑ…¹‘¥‘…Ñ•AÉ½Ù¥‘•È¡¹•Ü%¹5•µ½ÉåA…­…•5…¹¥™•ÍÑAÉ½Ù¥‘•È¡l(€€€€€€€€€€€€…ÁÁ±¥…Ñ¥½¸œ€ôøl(€€€€€€€€€€€€€€€¹•ÜA…­…•5…¹¥™•ÍÐ …ÁÁ±¥…Ñ¥½¸œ°M•µ…¹Ñ¥Y•ÉÍ¥½¸èéÁ…ÉÍ” œÄ¸Ä¸Àœ¤°l(€€€€€€€€€€€€€€€€€€€€èµ±¥‰É…Éäœ€ôøY•ÉÍ¥½¹½¹ÍÑÉ…¥¹ÐèéÁ…ÉÍ” xÄ¸À¸Àœ¤°(€€€€€€€€€€€€€€€€€€€€„µ±¥‰É…Éäœ€ôøY•ÉÍ¥½¹½¹ÍÑÉ…¥¹ÐèéÁ…ÉÍ” øÈ¸À¸Àœ¤°(€€€€€€€€€€€€€€€t¤°(€€€€€€€€€€€€€€€¹•ÜA…­…•5…¹¥™•ÍÐ …ÁÁ±¥…Ñ¥½¸œ°M•µ…¹Ñ¥Y•ÉÍ¥½¸èéÁ…ÉÍ” œÄ¸Ì¸Àœ¤¤°(€€€€€€€€€€€t°(€€€€€€€t¤¤ì((€€€€€€€€‘…¹‘¥‘…Ñ•Ì€ô€‘ÁÉ½Ù¥‘•È´ù…¹‘¥‘…Ñ•Í½Ë{¶‰žËkºwµçQ^Ù\[ÛŠÙÚXÑ^Ù\[ÛŽŽ˜Û\ÜÊNÂˆ
-™]ÈX[šY™\ÝØ[™Y]T›ÝšY\Š	›ÝšY\ŠJKO˜Ø[™Y]\Ñ›ÜŠ	Ø\XØ][Û‰ÊNÂˆB‚ˆX›XÈ[˜Ý[Ûˆ\ÝÚ]Ü™Z™XÝ×ØWÜ›ÝšY\—Ý]Ü™]\›œ×Ø[—Ú[˜[YÛX[šY™\ÝÙ[žJ
-Nˆ›ÚYˆÂˆ	›ÝšY\ˆH™]ÈÛ\ÜÈ[\[Y[ÈXÚØYÙSX[šY™\Ý›ÝšY\ˆÂˆX›XÈ[˜Ý[ÛˆX[šY™\ÝÑ›ÜŠÝš[™È	XÚØYÙJNˆ\œ˜^BˆÂˆ™]\›ˆÉÚ[˜[Y	×NÂˆBˆNÂ‚ˆ	\ËO™^XÝ^Ù\[ÛŠÙÚXÑ^Ù\[ÛŽŽ˜Û\ÜÊNÂˆ
-™]ÈX[šY™\ÝØ[™Y]T›ÝšY\Š	›ÝšY\ŠJKO˜Ø[™Y]\Ñ›ÜŠ	Ø\XØ][Û‰ÊNÂˆB‚ˆX›XÈ[˜Ý[Ûˆ\ÝÚ]ÜÛÛ™\×Ý˜[œÚ]]™WÛX[šY™\Ý×ÝÚ]Ý]ØÛÝ\[™×Ý×ÝWÚ[œÝ[\Š
-Nˆ›ÚYˆÂˆ	›ÝšY\ˆH™]ÈX[šY™\ÝØ[™Y]T›ÝšY\Š™]È[“Y[[ÜžTXÚØYÙSX[šY™\Ý›ÝšY\ŠÂˆ	Ø\XØ][Û‰ÈOˆÛ™]ÈXÚØYÙSX[šY™\Ý
-	Ø\XØ][Û‰ËÙ[X[XÕ™\œÚ[ÛŽŽœ\œÙJ	ÌKŒŒ	ÊKÂˆ	ÛXœ˜\žIÈOˆ™\œÚ[ÛÛÛœÝ˜Z[Žœ\œÙJ	×ŒKŒŒ	ÊKˆJWKˆ	ÛXœ˜\žIÈOˆÛ™]ÈXÚØYÙSX[šY™\Ý
-	ÛXœ˜\žIËÙ[X[XÕ™\œÚ[ÛŽŽœ\œÙJ	ÌKŒ	ÊJWKˆJJNÂ‚ˆ	™\Ý[H
-™]È][TXÚØYÙTÛÛ™\Š	›ÝšY\ŠJKOœÛÛ™J™]È][TXÚØYÙTÛÛ™T™\]Y\Ý
-Âˆ™]ÈXÚØYÙT™\]Z\™[Y[
-	Ü›ÛÝ	Ë	Ø\XØ][Û‰Ë™\œÚ[ÛÛÛœÝ˜Z[Žœ\œÙJ	×ŒKŒŒ	ÊJKˆJJNÂ‚ˆÙ[ŽŽ˜\ÜÙ\YJ	™\Ý[Oš\ÔØ]\ÙšYY
+<?php
 
-JNÂˆÙ[ŽŽ˜\ÜÙ\Ø[YJ	ÌKŒŒ	Ë
-Ýš[™ÊH	™\Ý[OœÙ[XÝ[ÛœÊ
-VÉØ\XØ][Û‰×KO™\œÚ[ÛŠ
-JNÂˆÙ[ŽŽ˜\ÜÙ\Ø[YJ	ÌKŒ	Ë
-Ýš[™ÊH	™\Ý[OœÙ[XÝ[ÛœÊ
-VÉÛXœ˜\žI×KO™\œÚ[ÛŠ
-JNÂˆBŸB
+declare(strict_types=1);
+
+namespace Pinoox\Tests\Unit\Component\PackageManager\Repository;
+
+use PHPUnit\Framework\TestCase;
+use Pinoox\Component\PackageManager\Dependency\Constraint\SemanticVersion;
+use Pinoox\Component\PackageManager\Dependency\Constraint\VersionConstraint;
+use Pinoox\Component\PackageManager\Dependency\Solver\MultiPackageSolveRequest;
+use Pinoox\Component\PackageManager\Dependency\Solver\MultiPackageSolver;
+use Pinoox\Component\PackageManager\Dependency\Solver\PackageRequirement;
+use Pinoox\Component\PackageManager\Repository\InMemoryPackageManifestProvider;
+use Pinoox\Component\PackageManager\Repository\ManifestCandidateProvider;
+use Pinoox\Component\PackageManager\Repository\PackageManifest;
+use Pinoox\Component\PackageManager\Repository\PackageManifestProvider;
+
+final class ManifestCandidateProviderTest extends TestCase
+{
+    public function test_it_exposes_manifests_as_descending_solver_candidates_with_dependencies(): void
+    {
+        $provider = new ManifestCandidateProvider(new InMemoryPackageManifestProvider([
+            'application' => [
+                new PackageManifest('application', SemanticVersion::parse('1.1.0'), [
+                    'z-library' => VersionConstraint::parse('^1.0.0'),
+                    'a-library' => VersionConstraint::parse('~2.0.0'),
+                ]),
+                new PackageManifest('application', SemanticVersion::parse('1.3.0')),
+            ],
+        ]));
+
+        $candidates = $provider->candidatesFor('application')->all();
+
+        self::assertSame(['1.3.0', '1.1.0'], array_map(
+            static fn ($candidate): string => (string) $candidate->version(),
+            $candidates
+        ));
+        self::assertSame(['a-library', 'z-library'], array_map(
+            static fn ($requirement): string => $requirement->package(),
+            $candidates[1]->requirements()
+        ));
+        self::assertSame('application@1.1.0', $candidates[1]->requirements()[0]->source());
+    }
+
+    public function test_it_returns_an_empty_candidate_set_when_a_manifest_is_missing(): void
+    {
+        $provider = new ManifestCandidateProvider(new InMemoryPackageManifestProvider([]));
+
+        self::assertNull($provider->candidatesFor('missing')->package());
+        self::assertSame([], $provider->candidatesFor('missing')->all());
+    }
+
+    public function test_it_rejects_manifests_stored_under_another_package(): void
+    {
+        $this->expectException(\InvalidArgumentException::class);
+
+        new InMemoryPackageManifestProvider([
+            'application' => [new PackageManifest('other-package', SemanticVersion::parse('1.0.0'))],
+        ]);
+    }
+
+    public function test_it_rejects_a_provider_that_returns_a_manifest_for_another_package(): void
+    {
+        $provider = new class implements PackageManifestProvider {
+            public function manifestsFor(string $package): array
+            {
+                return [new PackageManifest('other-package', SemanticVersion::parse('1.0.0'))];
+            }
+        };
+
+        $this->expectException(\LogicException::class);
+        (new ManifestCandidateProvider($provider))->candidatesFor('application');
+    }
+
+    public function test_it_rejects_a_provider_that_returns_an_invalid_manifest_entry(): void
+    {
+        $provider = new class implements PackageManifestProvider {
+            public function manifestsFor(string $package): array
+            {
+                return ['invalid'];
+            }
+        };
+
+        $this->expectException(\LogicException::class);
+        (new ManifestCandidateProvider($provider))->candidatesFor('application');
+    }
+
+    public function test_it_solves_transitive_manifests_without_coupling_to_the_installer(): void
+    {
+        $provider = new ManifestCandidateProvider(new InMemoryPackageManifestProvider([
+            'application' => [new PackageManifest('application', SemanticVersion::parse('1.0.0'), [
+                'library' => VersionConstraint::parse('^1.0.0'),
+            ])],
+            'library' => [new PackageManifest('library', SemanticVersion::parse('1.4.0'))],
+        ]));
+
+        $result = (new MultiPackageSolver($provider))->solve(new MultiPackageSolveRequest([
+            new PackageRequirement('root', 'application', VersionConstraint::parse('^1.0.0')),
+        ]));
+
+        self::assertTrue($result->isSatisfied());
+        self::assertSame('1.0.0', (string) $result->selections()['application']->version());
+        self::assertSame('1.4.0', (string) $result->selections()['library']->version());
+    }
+}

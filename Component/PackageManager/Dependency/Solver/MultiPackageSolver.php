@@ -1,26 +1,105 @@
-YªçŠx-®éÜj×¢ëiºÚ+Š§j[h‘éÜ¢éí×^4N‹Z–‹­¦ëeŠw¬ÔðýÁ¡À()‘•±…É”¡ÍÑÉ¥Ñ}ÑåÁ•ÌôÄ¤ì()¹…µ•ÍÁ…”A¥¹½½áq½µÁ½¹•¹ÑqA…­…•5…¹…•Éq•Á•¹‘•¹åqM½±Ù•Èì()ÕÍ”A¥¹½½áq½µÁ½¹•¹ÑqA…­…•5…¹…•Éq•Á•¹‘•¹åq½¹ÍÑÉ…¥¹Ñq½¹ÍÑÉ…¥¹ÑI•ÅÕ¥É•µ•¹Ðì)ÕÍ”A¥¹½½áq½µÁ½¹•¹ÑqA…­…•5…¹…•Éq•Á•¹‘•¹åq½¹ÍÑÉ…¥¹Ñq½¹ÍÑÉ…¥¹ÑM•Ðì()™¥¹…°±…ÍÌ5Õ±Ñ¥A…­…•M½±Ù•È)ì(€€€ÁÕ‰±¥Œ™Õ¹Ñ¥½¸}}½¹ÍÑÉÕÐ¡ÁÉ¥Ù…Ñ”É•…‘½¹±ä…¹‘¥‘…Ñ•AÉ½Ù¥‘•È€‘…¹‘¥‘…Ñ•Ì¤(€€€ì(€€€ô((€€€ÁÕ‰±¥Œ™Õ¹Ñ¥½¸Í½±Ù”¡5Õ±Ñ¥A…­…•M½±Ù•I•ÅÕ•ÍÐ€‘É•ÅÕ•ÍÐ¤è5Õ±Ñ¥A…­…•M½±Ù•I•ÍÕ±Ð(€€€ì(€€€€€€€€¼¨¨Ù…È…ÉÉ…äñÍÑÉ¥¹œ°±¥ÍÐñ½¹ÍÑÉ…¥¹ÑI•ÅÕ¥É•µ•¹Ðøø€‘É•ÅÕ¥É•µ•¹ÑÌ€¨¼(€€€€€€€€‘É•ÅÕ¥É•µ•¹ÑÌ€ômtì((€€€€€€€™½É•… € ‘É•ÅÕ•ÍÐ´ùÉ•ÅÕ¥É•µ•¹ÑÌ ¤…Ì€‘É•ÅÕ¥É•µ•¹Ð¤ì(€€€€€€€€€€€€‘É•ÅÕ¥É•µ•¹ÑÍl‘É•ÅÕ¥É•µ•¹Ð´ùÁ…­…” ¥umt€ô¹•Ü½¹ÍÑÉ…¥¹ÑI•ÅÕ¥É•µ•¹Ð (€€€€€€€€€€€€€€€€‘É•ÅÕ¥É•µ•¹Ð´ùÍ½ÕÉ” ¤°(€€€€€€€€€€€€€€€€‘É•ÅÕ¥É•µ•¹Ð´ù½¹ÍÑÉ…¥¹Ð ¤(€€€€€€€€€€€€¤ì(€€€€€€€ô((€€€€€€€É•ÑÕÉ¸€‘Ñ¡¥Ì´ùÉ•Í½±Ù” ‘É•ÅÕ¥É•µ•¹ÑÌ°mt¤ì(€€€ô((€€€€¼¨¨(€€€€€¨Á…É…´…ÉÉ…äñÍÑÉ¥¹œ°±¥ÍÐñ½¹ÍÑÉ…¥¹ÑI•ÅÕ¥É•µ•¹Ðøø€‘É•ÅÕ¥É•µ•¹ÑÌ(€€€€€¨Á…É…´…ÉÉ…äñÍÑÉ¥¹œ°…¹‘¥‘…Ñ”ø€‘Í•±•Ñ¥½¹Ì(€€€€€¨¼(€€€ÁÉ¥Ù…Ñ”™Õ¹Ñ¥½¸É•Í½±Ù”¡…ÉÉ…ä€‘É•ÅÕ¥É•µ•¹ÑÌ°…ÉÉ…ä€‘Í•±•Ñ¥½¹Ì¤è5Õ±Ñ¥A…­…•M½±Ù•I•ÍÕ±Ð(€€€ì(€€€€€€€­Í½ÉÐ ‘É•ÅÕ¥É•µ•¹ÑÌ¤ì((€€€€€€€™½É•… € ‘É•ÅÕ¥É•µ•¹ÑÌ…Ì€‘Á…­…”€ôø€‘¥Ñ•µÌ¤ì(€€€€€€€€€€€€‘½¹ÍÑÉ…¥¹ÑÌ€ô¹•Ü½¹ÍÑÉ…¥¹ÑM•Ð ‘¥Ñ•µÌ¤ì((€€€€€€€€€€€¥˜€¡¥ÍÍ•Ð ‘Í•±•Ñ¥½¹Íl‘Á…­…•t¤€˜˜€„‘½¹ÍÑÉ…¥¹ÑÌ´ùµ…Ñ¡•Ì ‘Í•±•Ñ¥½¹Íl‘Á…­…•t´ùÙ•ÉÍ¥½¸ ¤¤¤ì(€€€€€€€€€€€€€€€É•ÑÕÉ¸5Õ±Ñ¥A…­…•M½±Ù•I•ÍÕ±ÐèéÕ¹Í…Ñ¥Í™¥•¡¹•Ü½¹ÍÑÉ…¥¹Ñ½¹™±¥Ð ‘Á…­…”°€‘¥Ñ•µÌ¤¤ì(€€€€€€€€€€€ô(€€€€€€€ô((ƒ^4¶‰žËkºwµçOH	XÚØYÙJHÂˆ›ÝÈ™]ÈÙÚXÑ^Ù\[ÛŠ	ÐHØ[™Y]H›ÝšY\ˆ™]\›™YØ[™Y]\È›ÜˆHÜ›Û™ÈXÚØYÙK‰ÊNÂˆB‚ˆ	˜Z[\™HH[Â‚ˆ›Ü™XXÚ
-	Ø[™Y]\ËO˜[
+<?php
 
-H\È	Ø[™Y]JHÂˆYˆ
-IÛÛœÝ˜Z[ËO›X]Ú\Ê	Ø[™Y]KO™\œÚ[ÛŠ
-JJHÂˆÛÛ[YNÂˆB‚ˆ	™^™\]Z\™[Y[ÈH	™\]Z\™[Y[ÎÂ‚ˆ›Ü™XXÚ
-	Ø[™Y]KOœ™\]Z\™[Y[Ê
-H\È	™\]Z\™[Y[
-HÂˆ	™^™\]Z\™[Y[ÖÉ™\]Z\™[Y[OœXÚØYÙJ
-WV×HH™]ÈÛÛœÝ˜Z[™\]Z\™[Y[
-ˆ	™\]Z\™[Y[OœÛÝ\˜ÙJ
-Kˆ	™\]Z\™[Y[O˜ÛÛœÝ˜Z[
+declare(strict_types=1);
 
-Bˆ
-NÂˆB‚ˆ	™^Ù[XÝ[ÛœÈH	Ù[XÝ[ÛœÎÂˆ	™^Ù[XÝ[ÛœÖÉXÚØYÙWHH	Ø[™Y]NÂˆ	][\H	\ËOœ™\ÛÛ™J	™^™\]Z\™[Y[Ë	™^Ù[XÝ[ÛœÊNÂ‚ˆYˆ
-	][\Oš\ÔØ]\ÙšYY
+namespace Pinoox\Component\PackageManager\Dependency\Solver;
 
-JHÂˆ™]\›ˆ	][\ÂˆB‚ˆ	˜Z[\™HÏÏH	][\ÂˆB‚ˆ™]\›ˆ	˜Z[\™HÏÈ][TXÚØYÙTÛÛ™T™\Ý[Ž[œØ]\ÙšYY
-™]ÈÛÛœÝ˜Z[ÛÛ™›XÝ
-	XÚØYÙK	][\ÊJNÂˆB‚ˆÊŠ‚ˆ
-ˆ\˜[H\œ˜^OÝš[™Ë\ÝÛÛœÝ˜Z[™\]Z\™[Y[ˆ	™\]Z\™[Y[Âˆ
-ˆ\˜[H\œ˜^OÝš[™ËØ[™Y]Oˆ	Ù[XÝ[ÛœÂˆ
-‹Âˆš]˜]H[˜Ý[Ûˆ™^[œÙ[XÝYXÚØYÙJ\œ˜^H	™\]Z\™[Y[Ë\œ˜^H	Ù[XÝ[ÛœÊNˆÜÝš[™ÂˆÂˆ›Ü™XXÚ
-\œ˜^WÚÙ^\Ê	™\]Z\™[Y[ÊH\È	XÚØYÙJHÂˆYˆ
-Z\ÜÙ]
-	Ù[XÝ[ÛœÖÉXÚØYÙWJJHÂˆ™]\›ˆ	XÚØYÙNÂˆBˆB‚ˆ™]\›ˆ[ÂˆBŸB
+use Pinoox\Component\PackageManager\Dependency\Constraint\ConstraintRequirement;
+use Pinoox\Component\PackageManager\Dependency\Constraint\ConstraintSet;
+
+final class MultiPackageSolver
+{
+    public function __construct(private readonly CandidateProvider $candidates)
+    {
+    }
+
+    public function solve(MultiPackageSolveRequest $request): MultiPackageSolveResult
+    {
+        /** @var array<string, list<ConstraintRequirement>> $requirements */
+        $requirements = [];
+
+        foreach ($request->requirements() as $requirement) {
+            $requirements[$requirement->package()][] = new ConstraintRequirement(
+                $requirement->source(),
+                $requirement->constraint()
+            );
+        }
+
+        return $this->resolve($requirements, []);
+    }
+
+    /**
+     * @param array<string, list<ConstraintRequirement>> $requirements
+     * @param array<string, Candidate> $selections
+     */
+    private function resolve(array $requirements, array $selections): MultiPackageSolveResult
+    {
+        ksort($requirements);
+
+        foreach ($requirements as $package => $items) {
+            $constraints = new ConstraintSet($items);
+
+            if (isset($selections[$package]) && !$constraints->matches($selections[$package]->version())) {
+                return MultiPackageSolveResult::unsatisfied(new ConstraintConflict($package, $items));
+            }
+        }
+
+        $package = $this->nextUnselectedPackage($requirements, $selections);
+
+        if ($package === null) {
+            return MultiPackageSolveResult::satisfied($selections);
+        }
+
+        $items = $requirements[$package];
+        $constraints = new ConstraintSet($items);
+        $candidates = $this->candidates->candidatesFor($package);
+
+        if ($candidates->package() !== null && $candidates->package() !== $package) {
+            throw new \LogicException('A candidate provider returned candidates for the wrong package.');
+        }
+
+        $failure = null;
+
+        foreach ($candidates->all() as $candidate) {
+            if (!$constraints->matches($candidate->version())) {
+                continue;
+            }
+
+            $nextRequirements = $requirements;
+
+            foreach ($candidate->requirements() as $requirement) {
+                $nextRequirements[$requirement->package()][] = new ConstraintRequirement(
+                    $requirement->source(),
+                    $requirement->constraint()
+                );
+            }
+
+            $nextSelections = $selections;
+            $nextSelections[$package] = $candidate;
+            $attempt = $this->resolve($nextRequirements, $nextSelections);
+
+            if ($attempt->isSatisfied()) {
+                return $attempt;
+            }
+
+            $failure ??= $attempt;
+        }
+
+        return $failure ?? MultiPackageSolveResult::unsatisfied(new ConstraintConflict($package, $items));
+    }
+
+    /**
+     * @param array<string, list<ConstraintRequirement>> $requirements
+     * @param array<string, Candidate> $selections
+     */
+    private function nextUnselectedPackage(array $requirements, array $selections): ?string
+    {
+        foreach (array_keys($requirements) as $package) {
+            if (!isset($selections[$package])) {
+                return $package;
+            }
+        }
+
+        return null;
+    }
+}

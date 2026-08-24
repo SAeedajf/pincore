@@ -30,6 +30,20 @@ final class SemanticVersion
 
         $preRelease = ($matches[4] ?? '') === '' ? null : explode('.', $matches[4]);
 
+        foreach ($preRelease ?? [] as $identifier) {
+            if (ctype_digit($identifier) && strlen($identifier) > 1 && $identifier[0] === '0') {
+                throw new InvalidVersionException(sprintf('Invalid numeric pre-release identifier in "%s".', $version));
+            }
+        }
+
+        foreach ([$matches[1], $matches[2], $matches[3]] as $part) {
+            if (strlen($part) > strlen((string) PHP_INT_MAX) || (
+                strlen($part) === strlen((string) PHP_INT_MAX) && $part > (string) PHP_INT_MAX
+            )) {
+                throw new InvalidVersionException(sprintf('Version number is too large in "%s".', $version));
+            }
+        }
+
         return new self(
             (int) $matches[1],
             (int) $matches[2],
@@ -94,7 +108,7 @@ final class SemanticVersion
             $rightNumeric = ctype_digit($right);
 
             if ($leftNumeric && $rightNumeric) {
-                return (int) $left <=> (int) $right;
+                return strlen($left) <=> strlen($right) ?: $left <=> $right;
             }
 
             if ($leftNumeric !== $rightNumeric) {
