@@ -2,7 +2,7 @@
 
 ## Current Phase
 
-PHASE 4.3 — Constraint Conflict Resolution
+PHASE 4.4 — Package Solve Contract
 
 ## Completed
 
@@ -12,10 +12,11 @@ PHASE 4.3 — Constraint Conflict Resolution
 - Semantic-version parsing and constraint matching
 - Highest compatible candidate selection
 - Multi-requirement constraint intersection and conflict context
+- Candidate-provider port and package-level solve request/result contract
 
 ## In Progress
 
-- PHASE 4 solver expansion: multi-package request and backtracking contract
+- PHASE 4 solver expansion: multi-package dependency request and backtracking contract
 
 ## Next
 

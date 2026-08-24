@@ -28,7 +28,9 @@ final class CandidateSet
 
     public function package(): ?string
     {
-        return $this->candidates[0]->package() ?? null;
+        $first = $this->candidates[0] ?? null;
+
+        return $first?->package();
     }
 
     /** @return list<Candidate> */
