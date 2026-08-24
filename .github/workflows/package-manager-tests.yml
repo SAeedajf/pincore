@@ -2,8 +2,12 @@ name: Package Manager Unit Tests
 
 on:
   push:
-    branches:
-      - fix/package-manager-graph-core
+    paths:
+      - 'Component/PackageManager/**'
+      - 'tests/Unit/Component/PackageManager/**'
+      - 'composer.json'
+      - 'composer.lock'
+      - '.github/workflows/package-manager-tests.yml'
   pull_request:
     paths:
       - 'Component/PackageManager/**'
