@@ -14,22 +14,30 @@ final readonly class Package
 {
     /**
      * @param list<Dependency> $dependencies
-     * @param list<string> $capabilities
+     * @param list<Capability> $capabilities
      */
     public function __construct(
-        public string $name,
+        public PackageIdentifier $identifier,
         public PackageVersion $version,
         public array $dependencies = [],
         public array $capabilities = [],
+        public ?PackageMetadata $metadata = null,
     ) {
-        if ($this->name === '') {
-            throw new \InvalidArgumentException('Package name cannot be empty.');
-        }
-
         foreach ($this->dependencies as $dependency) {
             if (!$dependency instanceof Dependency) {
                 throw new \InvalidArgumentException('Package dependencies must be Dependency objects.');
             }
         }
+
+        foreach ($this->capabilities as $capability) {
+            if (!$capability instanceof Capability) {
+                throw new \InvalidArgumentException('Package capabilities must be Capability objects.');
+            }
+        }
+    }
+
+    public function name(): string
+    {
+        return $this->identifier->value();
     }
 }
