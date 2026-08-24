@@ -15,7 +15,8 @@ final class LockedPackage
     public function __construct(
         private readonly string $package,
         private readonly string $version,
-        array $requirements = []
+        array $requirements = [],
+        private readonly ?array $artifact = null
     ) {
         if (trim($package) === '' || trim($version) === '') {
             throw new \InvalidArgumentException('A locked package needs a package identifier and version.');
@@ -48,7 +49,8 @@ final class LockedPackage
             array_map(
                 static fn ($requirement): LockedRequirement => LockedRequirement::fromPackageRequirement($requirement),
                 $candidate->requirements()
-            )
+            ),
+            $candidate->artifact()
         );
     }
 
@@ -68,7 +70,7 @@ final class LockedPackage
         return $this->requirements;
     }
 
-    /** @return array{package: string, version: string, requirements: list<array{source: string, package: string, constraint: string}>} */
+    /** @return array<string, mixed> */
     public function toArray(): array
     {
         return [
@@ -78,6 +80,7 @@ final class LockedPackage
                 static fn (LockedRequirement $requirement): array => $requirement->toArray(),
                 $this->requirements
             ),
+            'artifact' => $this->artifact,
         ];
     }
 }

@@ -12,7 +12,8 @@ final class Candidate
     public function __construct(
         private readonly string $package,
         private readonly SemanticVersion $version,
-        private readonly array $requirements = []
+        private readonly array $requirements = [],
+        private readonly ?array $artifact = null
     ) {
         if (trim($package) === '') {
             throw new \InvalidArgumentException('A candidate package identifier cannot be empty.');
@@ -32,6 +33,12 @@ final class Candidate
         if (count($identities) !== count(array_unique($identities))) {
             throw new \InvalidArgumentException('A candidate cannot duplicate a requirement source for one package.');
         }
+
+        if ($artifact !== null && (!isset($artifact['uri'], $artifact['sha256'], $artifact['size'])
+            || !is_string($artifact['uri']) || preg_match('/^[a-f0-9]{64}$/', $artifact['sha256']) !== 1
+            || !is_int($artifact['size']) || $artifact['size'] < 0)) {
+            throw new \InvalidArgumentException('A candidate artifact is invalid.');
+        }
     }
 
     public function package(): string
@@ -48,5 +55,11 @@ final class Candidate
     public function requirements(): array
     {
         return $this->requirements;
+    }
+
+    /** @return array{uri: string, sha256: string, size: int}|null */
+    public function artifact(): ?array
+    {
+        return $this->artifact;
     }
 }
