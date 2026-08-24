@@ -2,7 +2,7 @@
 
 ## Current Phase
 
-PHASE 4.5 — Multi-Package Dependency Solver
+PHASE 4.6 — Manifest Repository Boundary
 
 ## Completed
 
@@ -14,14 +14,15 @@ PHASE 4.5 — Multi-Package Dependency Solver
 - Multi-requirement constraint intersection and conflict context
 - Candidate-provider port and package-level solve request/result contract
 - Multi-package candidate solving with deterministic backtracking and propagated conflicts
+- Immutable package manifests and repository-to-solver candidate adaptation
 
 ## In Progress
 
-- PHASE 4 solver expansion: repository metadata adapter boundary
+- PHASE 4 solver expansion: external manifest decoder and lock-file data model
 
 ## Next
 
-- Repository metadata adapter and package manifest contract
+- External manifest decoder/validator for repository payloads
 - Lock-file data model and reproducible selection persistence
 - Installation planning remains separate from solver selection
 
@@ -34,7 +35,7 @@ PHASE 4.5 — Multi-Package Dependency Solver
 ## Known Limits / Technical Debt
 
 - OR and wildcard constraint syntax is intentionally deferred.
-- The multi-package solver is intentionally in-memory and has no repository metadata adapter yet.
+- The repository boundary is intentionally in-memory; filesystem, database, and remote repository adapters are still deferred.
 - Runtime PHP/Pest execution is available through CI; the current local workspace does not contain a PHP runtime.
 
 ## Test Status
