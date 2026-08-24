@@ -11,7 +11,10 @@ final class VersionConstraint
     /**
      * @param list<array{operator: string, version: SemanticVersion}> $clauses
      */
-    private function __construct(private readonly array $clauses)
+    private function __construct(
+        private readonly array $clauses,
+        private readonly string $expression
+    )
     {
     }
 
@@ -40,7 +43,7 @@ final class VersionConstraint
             ];
         }
 
-        return new self($clauses);
+        return new self($clauses, $constraint);
     }
 
     public function matches(SemanticVersion $candidate): bool
@@ -70,6 +73,11 @@ final class VersionConstraint
         return $this->clauses;
     }
 
+    public function expression(): string
+    {
+        return $this->expression;
+    }
+
     private static function fromCompatibilityRange(string $constraint): self
     {
         $operator = $constraint[0];
@@ -88,6 +96,6 @@ final class VersionConstraint
         return new self([
             ['operator' => '>=', 'version' => $base],
             ['operator' => '<', 'version' => SemanticVersion::parse($upper)],
-        ]);
+        ], $constraint);
     }
 }
