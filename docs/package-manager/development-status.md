@@ -2,7 +2,7 @@
 
 ## Current Phase
 
-PHASE 4.6 — Manifest Repository Boundary
+PHASE 4.7 — Lock Snapshot Domain Model
 
 ## Completed
 
@@ -15,15 +15,16 @@ PHASE 4.6 — Manifest Repository Boundary
 - Candidate-provider port and package-level solve request/result contract
 - Multi-package candidate solving with deterministic backtracking and propagated conflicts
 - Immutable package manifests and repository-to-solver candidate adaptation
+- Canonical in-memory lock snapshot and deterministic selection fingerprint
 
 ## In Progress
 
-- PHASE 4 solver expansion: external manifest decoder and lock-file data model
+- PHASE 4 solver expansion: strict manifest and lock-file codecs
 
 ## Next
 
 - External manifest decoder/validator for repository payloads
-- Lock-file data model and reproducible selection persistence
+- Strict lock-snapshot encoder/decoder and atomic persistence boundary
 - Installation planning remains separate from solver selection
 
 ## Architecture Decisions
@@ -35,7 +36,7 @@ PHASE 4.6 — Manifest Repository Boundary
 ## Known Limits / Technical Debt
 
 - OR and wildcard constraint syntax is intentionally deferred.
-- The repository boundary is intentionally in-memory; filesystem, database, and remote repository adapters are still deferred.
+- Manifest and lock boundaries are intentionally in-memory; filesystem, database, and remote repository adapters are still deferred.
 - Runtime PHP/Pest execution is available through CI; the current local workspace does not contain a PHP runtime.
 
 ## Test Status
