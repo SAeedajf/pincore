@@ -1,45 +1,56 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Pinoox\Component\PackageManager\Dependency\Graph;
 
-class TopologicalSorter
+use Pinoox\Component\PackageManager\Dependency\Graph\Exception\DependencyCycleException;
+
+final class TopologicalSorter
 {
+    /**
+     * Returns an install-safe order: every dependency is emitted before its dependent.
+     *
+     * @return list<GraphNode>
+     */
     public function sort(DependencyGraph $graph): array
     {
-        $inDegree = [];
-        $queue = [];
+        /** @var array<string, int> $remainingDependencies */
+        $remainingDependencies = [];
+        /** @var array<string, GraphNode> $ready */
+        $ready = [];
         $result = [];
 
         foreach ($graph->nodes() as $node) {
-            $inDegree[$node->id()] = 0;
-        }
+            $remainingDependencies[$node->id()] = count($graph->dependenciesOf($node));
 
-        foreach ($graph->edges() as $edge) {
-            $inDegree[$edge->target()->id()]++;
-        }
-
-        foreach ($inDegree as $id => $degree) {
-            if ($degree === 0) {
-                $queue[] = $id;
+            if ($remainingDependencies[$node->id()] === 0) {
+                $ready[$node->id()] = $node;
             }
         }
 
-        while ($queue) {
-            $current = array_shift($queue);
-            $node = $graph->node($current);
+        while ($ready !== []) {
+            ksort($ready, SORT_STRING);
+            $node = array_shift($ready);
             $result[] = $node;
 
-            foreach ($graph->neighbors($node) as $neighbor) {
-                $inDegree[$neighbor->id()]--;
+            foreach ($graph->dependentsOf($node) as $dependent) {
+                $id = $dependent->id();
+                --$remainingDependencies[$id];
 
-                if ($inDegree[$neighbor->id()] === 0) {
-                    $queue[] = $neighbor->id();
+                if ($remainingDependencies[$id] === 0) {
+                    $ready[$id] = $dependent;
                 }
             }
         }
 
         if (count($result) !== count($graph->nodes())) {
-            throw new \RuntimeException('Dependency graph contains a cycle.');
+            $cycle = (new CycleDetector())->detect($graph);
+
+            throw new DependencyCycleException(array_map(
+                static fn (GraphNode $node): string => $node->id(),
+                $cycle
+            ));
         }
 
         return $result;

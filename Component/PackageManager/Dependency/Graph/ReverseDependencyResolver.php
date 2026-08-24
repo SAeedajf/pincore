@@ -1,19 +1,16 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Pinoox\Component\PackageManager\Dependency\Graph;
 
-class ReverseDependencyResolver
+final class ReverseDependencyResolver
 {
-    public function dependentsOf(DependencyGraph $graph, GraphNode $target): array
+    /**
+     * @return list<GraphNode>
+     */
+    public function dependentsOf(DependencyGraph $graph, GraphNode|string $target): array
     {
-        $dependents = [];
-
-        foreach ($graph->edges() as $edge) {
-            if ($edge->target()->id() === $target->id()) {
-                $dependents[] = $edge->source();
-            }
-        }
-
-        return $dependents;
+        return $graph->dependentsOf($target);
     }
 }
