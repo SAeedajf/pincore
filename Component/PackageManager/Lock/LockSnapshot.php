@@ -47,6 +47,12 @@ final class LockSnapshot
         ));
     }
 
+    /** @param list<LockedPackage> $packages */
+    public static function fromPackages(array $packages): self
+    {
+        return new self($packages);
+    }
+
     /** @return list<LockedPackage> */
     public function packages(): array
     {
