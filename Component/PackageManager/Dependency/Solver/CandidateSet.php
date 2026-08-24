@@ -26,18 +26,29 @@ final class CandidateSet
         $this->candidates = $candidates;
     }
 
-    /** @return list<Candidate> */
-    public function matching(VersionConstraint $constraint): array
+    public function package(): ?string
     {
-        $matches = array_values(array_filter(
-            $this->candidates,
-            static fn (Candidate $candidate): bool => $constraint->matches($candidate->version())
-        ));
+        return $this->candidates[0]->package() ?? null;
+    }
 
-        usort($matches, static fn (Candidate $left, Candidate $right): int =>
+    /** @return list<Candidate> */
+    public function all(): array
+    {
+        $candidates = $this->candidates;
+
+        usort($candidates, static fn (Candidate $left, Candidate $right): int =>
             $right->version()->compareTo($left->version())
         );
 
-        return $matches;
+        return $candidates;
+    }
+
+    /** @return list<Candidate> */
+    public function matching(VersionConstraint $constraint): array
+    {
+        return array_values(array_filter(
+            $this->all(),
+            static fn (Candidate $candidate): bool => $constraint->matches($candidate->version())
+        ));
     }
 }
