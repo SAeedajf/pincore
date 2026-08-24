@@ -38,6 +38,6 @@ final readonly class Package
 
     public function name(): string
     {
-        return $this->identifier->value();
+        return $this->identifier->name();
     }
 }
